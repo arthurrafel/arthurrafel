@@ -5,7 +5,7 @@
 <h3 align="center"> 🌊Atualmente estou estudando no <strong>SENAI</strong> o curso <strong>Técnico de Desenvolvimento de Sistemas.</strong> </h3>
 <h3 align="center"> ⛄Escolhi o curso de desenvonvimento de sistemas pois é uma area muito abragente e sempre foi meu sonho trabalhar nela. </h3>
 <h3 align="center"> ☁gosto muito de tecnologia e estou no meu primeiro ano de curso tecnico.</h3>
-<h1 align="center"> <img src = "https://i.pinimg.com/originals/b4/b8/6e/b4b86e2f95381b402e71fd3089d370ab.gif" width = 180px </h1>
+<h1 align="center"> <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/source/5eeea355389655.59822ff824b72.gif" width = 180px </h1>
 
 ---
 <div <h1 align="center"> Technologias que utilizo <img src = "https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif" width = 60px>
