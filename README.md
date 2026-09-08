@@ -4,7 +4,7 @@
 <div <h1 align="center">Sobre mim<img src = "https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYms0d3FkZWdyMWUxcGJxOTNqcjB6Y3F5dGFvY2Rtb2FqMW10MjJidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hWhzyAxIu6rVS5AKbP/200w.gif" width = 50px </h1></div>
 <h3 align="center"> 🌊Atualmente estou estudando no <strong>SENAI</strong> o curso <strong>Técnico de Desenvolvimento de Sistemas.</strong> </h3>
 <h3 align="center"> ⛄Escolhi o curso de desenvonvimento de sistemas pois é uma area muito abragente e sempre foi meu sonho trabalhar nela. </h3>
-<h3 align="center"> ☁gosto muito de tecnologia e estou no meu primeiro ano de curso tecnico.</h3>
+<h3 align="center"> ☁"Aprenda com seus erros. Eles mostram onde você pode melhorar".</h3>
 <h1 align="center"> <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/source/5eeea355389655.59822ff824b72.gif" width = 180px </h1>
 
 ---
