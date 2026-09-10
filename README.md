@@ -18,8 +18,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>  
-  <a href="https://www.pngmart.com/image/tag/canva-logo" target="_blank">
-    <img src="https://www.pngmart.com/files/23/Canva-Logo-PNG-File.png" alt="canva" width="45" height="45" /> 
+  <a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/3840px-Node.js_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"_blan">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHGK-IF1ehjeu9oaRztJqYfTSJ9P6j0Z6cCG6BkHDpCQ&s=10" /> 
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="canva" width="45" height="45" /> 
 </a></h1></div>
