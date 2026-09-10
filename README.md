@@ -20,4 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>  
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="canva" width="45" height="45" /> 
+     <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHGK-IF1ehjeu9oaRztJqYfTSJ9P6j0Z6cCG6BkHDpCQ&s=10" target="_blank">
+       <img src="<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f27bd614-8f5e-40e1-868b-6ebdb8814e6b" />
+" alt="canva" width="45" height="45" /> 
 </a></h1></div>
